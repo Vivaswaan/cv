@@ -160,3 +160,13 @@ img{
 .eduitem a:hover{
     color: black; 
 }
+.project-subtitle{
+    color: blue; 
+    text-decoration: underline; 
+    cursor: pointer; 
+}
+
+.project-subtitle:visited {
+    color: purple; 
+    text-decoration: underline; 
+}
