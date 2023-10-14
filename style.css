@@ -161,6 +161,8 @@ img{
     color: black; 
 }
 .project-subtitle{
+    font-size: 1.4rem;
+    font-weight: 400;
     color: blue; 
     text-decoration: underline; 
     cursor: pointer; 
@@ -168,5 +170,7 @@ img{
 
 .project-subtitle:visited {
     color: purple; 
+    font-size: 1.4rem;
+    font-weight: 400;
     text-decoration: underline; 
 }
