@@ -150,7 +150,13 @@ img{
     text-decoration: none; 
     color: black; 
 }
-
+.eduitem a{
+    text-decoration: none; 
+    color: black; 
+}
 .Details a:hover{
+    color: black; 
+}
+.eduitem a:hover{
     color: black; 
 }
