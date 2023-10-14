@@ -174,3 +174,13 @@ img{
     font-weight: 400;
     text-decoration: underline; 
 }
+.normal-link:link {
+    color: blue;
+    text-decoration: underline;
+}
+
+.normal-link:visited {
+    color: purple;
+    text-decoration: underline;
+}
+
